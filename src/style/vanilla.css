@@ -114,8 +114,7 @@ body{
 #hero-section {
     width: 100%;
     height: 100vh;
-    background: url("/aseets/image/wedding-bc.jpg")top left;
-    /* background-image: url(/aseets/image/wedding-bc.jpg)top left; */
+    background-image: url(/aseets/image/wedding-bc.jpg);
     background-size: cover;
     position: relative;
     background-position: center;
